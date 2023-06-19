@@ -63,8 +63,8 @@ Links: <https://www.markdownguide.org>
 <fake@example.com>
 
 Don't want list? \- use backslash to cancel out characters
-'''
-    _  _                               
+
+'''    _  _                               
    FJ  L]     ____     _ ___    ____   
   J |__| L   F __ J   J '__ ", F __ J  
   |  __  |  | _____J  | |__|-J| _____J 
@@ -116,5 +116,4 @@ d888888P                d888888P
  >=>   >=>   >=>      >=>   
 >=>    >=>   >=>      >=>   
  >=>   >=>   >=>      >=>   
-  >==>>>==> >==>       >=>  
-  '''
+  >==>>>==> >==>       >=> '''
