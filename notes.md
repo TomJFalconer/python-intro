@@ -1,4 +1,5 @@
-# Day 1 Notes
+# Work Experience Notes
+## Day 1 Notes
 
 
 - Create definitions for bash commands used (ls, cd, pwd)
@@ -16,3 +17,7 @@
         - Bold Text: **Hello**
         - Italicised Text: *Hello*
         - Bold and Italicised Text: ***Hello***
+
+## Day 2 Notes
+- Chat with Esteban about what he does and git
+- Do some python exercises
