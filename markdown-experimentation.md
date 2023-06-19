@@ -31,14 +31,14 @@ Seperation between
     - 3b
         - 3bi
         - 3bii
+            
+            
             -3bii1
+            
+            
             -3bii2
 
-**Code Block:**
-    <html>
-          <head>
-            <title>Test</title>
-          </head>
+
 
 **Image:**
     ![Photo Test](Pictures/storm.jfif)
@@ -66,8 +66,8 @@ Links: <https://www.markdownguide.org>
 Don't want list? \- use backslash to cancel out characters
 
     _  _                               
-   FJ  L]     \_\_\_\_     \_ \_\_\_    \_\_\_\_   
-  J |\_\_| L   F \_\_ J   J '\_\_ ", F \_\_ J  
+   FJ  L]     ____     _ ___    ____   
+  J |__| L   F __ J   J '__ ", F __ J  
   |  __  |  | _____J  | |__|-J| _____J 
   F L__J J  F L___--. F L  `-'F L___--.
  J__L  J__LJ\\______/FJ__L    J\\______/F
@@ -79,10 +79,10 @@ Don't want list? \- use backslash to cancel out characters
      /\  \      /::\  \   
      \:\  \    /:/\ \  \  
      /::\\__\  _\:\~\ \  \ 
-  __/:/\/__/ /\ \:\ \ \\__\
+  __/:/\/__/ /\ \:\ \ \\\\__\
  /\/:/  /    \:\ \:\ \/__/
- \::/__/      \:\ \:\\__\  
-  \:\\__\       \:\/:/  /  
+ \::/__/      \:\ \:\\\\__\  
+  \:\\\\__\       \:\/:/  /  
    \/__/        \::/  /   
                  \/__/    
 
