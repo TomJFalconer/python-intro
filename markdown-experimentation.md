@@ -64,11 +64,11 @@ Links: <https://www.markdownguide.org>
 
 Don't want list? \- use backslash to cancel out characters
 
-         _                                  
-       FJ___      ____     _ ___    ____   
-      J  __ `.   F __ J   J '__ ", F __ J  
-      | |--| |  | _____J  | |__|-J| _____J 
-      F L  J J  F L___--. F L  `-'F L___--.
+        _  _                               
+       FJ  L]     ____     _ ___    ____   
+      J |__| L   F __ J   J '__ ", F __ J  
+      |  __  |  | _____J  | |__|-J| _____J 
+      F L__J J  F L___--. F L  `-'F L___--.
      J__L  J__LJ\______/FJ__L    J\______/F
      |__L  J__| J______F |__L     J______F 
 
