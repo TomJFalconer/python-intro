@@ -1,60 +1,60 @@
 # Meeting Notes:
-•	Briefing (talking about what meeting’s about)
-•	Call through Microsoft Teams, also use Slack (?)
-•	Go over plans for meeting
-•	Script updates, changes being made to something
-•	Balancer (?)
-•	Not releasing unless sure it won’t break anything
-•	Go around the room for updates
-•	Discovery is done/completed. On hold until plugin release 
-    o	^ None of this makes sense to me
-•	Discovery scheduled on Tuesday
-•	Scripts on Tuesday
-•	Front end could be released now with what they have, but there is a bug. The filter (function?) needs to be fixed, they could put it on hold and release it now. Mapping is okay and should be fine. 
-•	Edited mappings
-•	Test scripts
-•	[Front End] (?) should be fine, it’s tricky to know if some (code?) is correct
-•	Documentation options enable and disable. Nat and proxy (?)
-•	Front End to be done today and (fix?) at next release
-•	(Back end?) proxy IP – continue with testing and updates, update with the model and use new version to test it. 
-•	Mapping issues but once done can do additional testing.
-•	Additional tests for back end regarding failure scenarios. Do the same for the new one.
-•	Capture in work flow diagram, to go through different failure scenarios. Comment in documentation say if it fails at any build _____ _____ documentation (I forgot what he said because I didn’t understand it)
-•	Since unable to do release they can adjust when needed.
-•	Doco going alright. Hold off on testing until front end release. Hide in doco once seen front end and then scale back. (??????)
-•	Discussing meeting for later on to go over one on one to discuss how it works.
-•	Back end and doco in progress
-•	Workshop do an _____ on Friday for _____ _______. 
-•	Sprint to doing a bigger workshop to the wider team.
-•	Have a few people using the workshop initially. Easier to manage, difficult to support (?)
-•	Workshop – controlled release, hold off until after pilot period. 
-•	Front end – check for spaces, script doesn’t matter.
-•	Put it into ____space and it wouldn’t complain
-•	Space affects
-•	Make sure it only accepts IP address syntax. 
-•	Make list of all the prechecks they need to do
-•	Prechecks must be built into the forms
-•	Model can only accept one character; don’t make to long or back end can’t support. Can do check but made all the fields work in their models (?)
-•	Catch something (problem in code?)
-•	Release up to dev without checks in it and capture it up to documentation.
-•	Do a check for mandatory data inputs. VSN must not exceed 30 characters, mandatory prerequisites. 
-•	Timeline – doco still in progress as front end changes script. Back ends fine for testing now. Some copies not happy with at the moment. Scripts being pushed up to dev today, define two use cases demonstration aimed for Friday pushing to say doc 33 balancer, ____ ____ pushing to 55 54 (?)
-•	Workshop after pilot – maybe sprint 3
-•	Won’t do _____ until Friday
-•	Going over problems, timelines, solutions, comments and plans, also meetings.
-•	Everything should be ready.
-•	Things to fix but should be fine
-•	Link not working when you filter, only gets last _____ when filter
-•	Scripts do have link to them, but not in depth -- ?
-•	Couldn’t initiate container
-•	Added extra _____ to ____, need to edit once they’re polished and in. Put name of scripts in (code?)
-•	Start testing
-•	Messaging others
-•	Talking to others
-•	Plugin conflict configuration to ___ file
-•	Once release need to go to configuration of ____ because of different doco ripple.
-•	Don’t want to code the name of script, but can be done.
-•	Once there it’s definite
-•	High code it
-•	Condition in case script isn’t there then it won’t show.
-•	ADC (Application delivery controllers), when user wants to hit website instead of hitting one individual server, they hit server and server sends back hdml and because of that everyone hits on server and it crashed, it can’t scale, runs out of CPU, memory. ADC hit virtual ip address (VIP). ADC – low balancer has multiple servers. Server sends traffic back and if server goes down they get sent to different server. Add servers to back end to handle more traffic. Have to ask questions of configuration. Automating a server farm instead of manually doing it. Customers are other engineers who need to do that configuration.
+- Briefing (talking about what meeting’s about)
+- Call through Microsoft Teams, also use Slack (?)
+- Go over plans for meeting
+- Script updates, changes being made to something
+- Balancer (?)
+- Not releasing unless sure it won’t break anything
+- Go around the room for updates
+- Discovery is done/completed. On hold until plugin release 
+    - ^ None of this makes sense to me
+- Discovery scheduled on Tuesday
+- Scripts on Tuesday
+- Front end could be released now with what they have, but there is a bug. The filter (function?) needs to be fixed, they could put it on hold and release it now. Mapping is okay and should be fine. 
+- Edited mappings
+- Test scripts
+- [Front End] (?) should be fine, it’s tricky to know if some (code?) is correct
+- Documentation options enable and disable. Nat and proxy (?)
+- Front End to be done today and (fix?) at next release
+- (Back end?) proxy IP – continue with testing and updates, update with the model and use new version to test it. 
+- Mapping issues but once done can do additional testing.
+- - Additional tests for back end regarding failure scenarios. Do the same for the new one.
+- Capture in work flow diagram, to go through different failure scenarios. Comment in documentation say if it fails at any build _____ _____ documentation (I forgot what he said because I didn’t understand it)
+- Since unable to do release they can adjust when needed.
+- Doco going alright. Hold off on testing until front end release. Hide in doco once seen front end and then scale back. (??????)
+- Discussing meeting for later on to go over one on one to discuss how it works.
+- Back end and doco in progress
+- Workshop do an _____ on Friday for _____ _______. 
+- Sprint to doing a bigger workshop to the wider team.
+- Have a few people using the workshop initially. Easier to manage, difficult to support (?)
+- Workshop – controlled release, hold off until after pilot period. 
+- Front end – check for spaces, script doesn’t matter.
+- Put it into ____space and it wouldn’t complain
+- Space affects
+- Make sure it only accepts IP address syntax. 
+- Make list of all the prechecks they need to do
+- Prechecks must be built into the forms
+- Model can only accept one character; don’t make to long or back end can’t support. Can do check but made all the fields work in their models (?)
+- Catch something (problem in code?)
+- Release up to dev without checks in it and capture it up to documentation.
+- Do a check for mandatory data inputs. VSN must not exceed 30 characters, mandatory prerequisites. 
+- Timeline – doco still in progress as front end changes script. Back ends fine for testing now. Some copies not happy with at the moment. Scripts being pushed up to dev today, define two use cases demonstration aimed for Friday pushing to say doc 33 balancer, ____ ____ pushing to 55 54 (?)
+- Workshop after pilot – maybe sprint 3
+- Won’t do _____ until Friday
+- Going over problems, timelines, solutions, comments and plans, also meetings.
+- Everything should be ready.
+- Things to fix but should be fine
+- Link not working when you filter, only gets last _____ when filter
+- Scripts do have link to them, but not in depth -- ?
+- Couldn’t initiate container
+- Added extra _____ to ____, need to edit once they’re polished and in. Put name of scripts in (code?)
+- Start testing
+- Messaging others
+- Talking to others
+- Plugin conflict configuration to ___ file
+- Once release need to go to configuration of ____ because of different doco ripple.
+- Don’t want to code the name of script, but can be done.
+- Once there it’s definite
+- High code it
+- Condition in case script isn’t there then it won’t show.
+- ADC (Application delivery controllers), when user wants to hit website instead of hitting one individual server, they hit server and server sends back hdml and because of that everyone hits on server and it crashed, it can’t scale, runs out of CPU, memory. ADC hit virtual ip address (VIP). ADC – low balancer has multiple servers. Server sends traffic back and if server goes down they get sent to different server. Add servers to back end to handle more traffic. Have to ask questions of configuration. Automating a server farm instead of manually doing it. Customers are other engineers who need to do that configuration.
