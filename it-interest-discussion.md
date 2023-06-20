@@ -1,3 +1,5 @@
 # Does IT Interest Me?
 ## Day 1:
 So far I find it pretty interesting, there's still lots I'm confused/unsure about but it's pretty fun for now. I like the challenges and how you have to overcome them. 
+## Day 2:
+Today it was fun creating code, but at some points it got repetitive and a bit slow/boring. I still enjoyed majority of it though. 

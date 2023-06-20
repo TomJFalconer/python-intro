@@ -19,5 +19,7 @@
         - Bold and Italicised Text: ***Hello***
 
 ## Day 2 Notes
-- Chat with Esteban about what he does and git
+- Chatted with Esteban about what he does as scrum master
 - Do some python exercises
+    - Did an exercise asking the user for their name, and told them what year they will turn 100, or what year they did turn 100.
+    -Started working on a digital version of the work experience employer form for Toby.
