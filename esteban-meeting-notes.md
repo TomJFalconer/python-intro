@@ -12,3 +12,5 @@
 - file issues on github
 - converse with customer to support them
 - lave issue and assign other to issue
+
+
