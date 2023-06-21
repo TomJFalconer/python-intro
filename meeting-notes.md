@@ -1,4 +1,5 @@
 # Meeting Notes:
+## 1st Meeting
 - Briefing (talking about what meeting’s about)
 - Call through Microsoft Teams, also use Slack (?)
 - Go over plans for meeting
@@ -58,3 +59,35 @@
 - High code it
 - Condition in case script isn’t there then it won’t show.
 - ADC (Application delivery controllers), when user wants to hit website instead of hitting one individual server, they hit server and server sends back hdml and because of that everyone hits on server and it crashed, it can’t scale, runs out of CPU, memory. ADC hit virtual ip address (VIP). ADC – low balancer has multiple servers. Server sends traffic back and if server goes down they get sent to different server. Add servers to back end to handle more traffic. Have to ask questions of configuration. Automating a server farm instead of manually doing it. Customers are other engineers who need to do that configuration.
+## 2nd Meeting
+- Go around asking everyone for updates on what they've been working on
+- Fixing issues and bugs, making updates and changes
+- Fixes to be done prior to release
+- Test components later
+- Demo on Friday
+- Working together to solve problems
+- Lots of stuff going on and need to present achievable (tasks?)
+- Learning from each other
+- Testing ADC for breaks
+- Updates 
+- Progress on DTC(?) Script
+- Updates to plugin and fix workflow
+- Updates to be done during the PI
+- No changes to some things, need to fix others
+- Dev tower cleanup, no longer cleaning up Github (???????? \- Not entirely sure if this is correct) 
+- Github cleanup (either to be done or has been done - not sure)
+- Help each other work around problems and allocate tasks
+- Firewalls (?)
+- Route is going from [?] to [?] when it should be going to [?] - need to change route so that its assymetrical (?)
+- Talking together about how they will solve a problem and getting advice
+- [???????????????????????????????????????????????????????] - no idea what's being said
+- Oob [?] firewall
+    -^??????????
+- Network changed to oob [?]
+- Asking for validation in thought process
+- Double check firewall
+- Check each others work and making sure they're doing correct
+- Don't do assymetric since firewall  
+    - Route is going from [?] to [?] when it should be going to [?] - need to change route so that its assymetrical (so that it's not assymetrical maybe)
+- Make sure traffic flow is the same and firewall is safe
+- 
