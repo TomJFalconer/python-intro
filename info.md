@@ -1,0 +1,3 @@
+- what it is, what it does, core information, use case, white it's implementes, primary use
+- net box, ansible, avocent, cisco_ise, ee, logic monitor, palo-alto, hashicorp-vault, service-now
+- source of truth
