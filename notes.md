@@ -28,3 +28,8 @@
 - Went to a meeting where everyone in the team caught up on the work they had been completing for the past few days (forgot what it's called), interesting to see how they worked together to find solutions to problems they had.
 - I continued to work on digitising the work experience form, I came close to finishing but just need a place to store the information entered into the Entries.
 - I have been given the task to write definitions for a READ ME in GitHub but I am yet to start since I was busy with digitising the form, probably will start it tomorrow though. 
+
+## Day 4 Notes
+- Learnt about ansible and netbox
+- Finished digitising the work experince form
+- Started and finished writing defintions for the READ.ME
