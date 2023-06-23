@@ -90,4 +90,72 @@
 - Don't do assymetric since firewall  
     - Route is going from [?] to [?] when it should be going to [?] - need to change route so that its assymetrical (so that it's not assymetrical maybe)
 - Make sure traffic flow is the same and firewall is safe
+
+## Friday Meeting
+- Everyone giving updates on work again, working through together to solve problems and calculate solutions
+- ACL Interface Assignement Model
+- More testing with Cisco ISE onboarding
+- ADC, front and beck end, documenting issues
+- More issues in [?]
+- Problem with ops (?)
+- For the time being changes are going through, time for investigations
+- Showcasing
+- Dashboard isn't new
+- Pinged user for [?]
+- Showcasing execution environment build pipeline
+- Not going through in too much detail
+- Replace python virtual environment across Ansible Execution Node
+- Ansible EE - Ansible Core inside, everything that's needed to run an Ansible playbook
+- Information included
+- 3 images, minimal, supported, 2.9[?]
+- Don't need to run playbooks in 2.9 (2.09?) because they're already running in 2.10
+- Use cases need to build own EE
+- Palo Alto
+- EE - install python dependencies in container image - everytime you run job python dependencies present already
+- EE Build Pipeline Logical Flow
+- No security requirements in dev [?]
+- Pass those or prod [?]
+- Define EE in GitHub
+- Open pull request, perform STA [?]
+- runs [?] tool and scans project
+- run black duck scan
+- Signoff on secure coding scan on every scan you run.
+    - working on auto-signoff
+- DEV on container
+- Updates PR
+- Still onboarding
+- Same as getting approval
+- Approve pool request
+- Merged and pushed
+- Pull image from [?] factory
+- [?] hub
+- Document explaining
+- Links explaining topic in case others in team don't understand
+- Showcasing pipeline
+- When defining EE, it goes in folder that matches naming standard,
+- EE normally made of multiple files, defining how to build
+- Yml file produces doco.file
+- Provide base image
+- Collection requirements
+- GitHub status gets updated on whether they're passing through Ansible playbook... (?)
+- Couple of vulnerabilities but they're not important because not highlighted
+- Once merged pushed into artifactory (?)
+- Showed basic concept
+- **I HAVE NO IDEA WHATS GOING ON**
+- Roadmap 
+- Virtual server creatoin tool
+- Server farm being created
+- Real services being shown 
+- One page
+- If you want multiple servers to be added, bulk create 
+- If want to push out farm go to dashboard and sign in, create new job, select environment, balancer, and input other info to create
+- Doco - changing with each release
+- Granually testing each test case items so that when released to wider team it's all been tested
+- back log issues being tracked in next release
+- adc plugin hanging together and you can look at relationships
+- naming standards on how script pulls together
+- Configuration being built: pushing out farm that was selected
+- Can see changes 
+- When people do scheduled change
+- Finishing demo plug-in on net box
 - 
